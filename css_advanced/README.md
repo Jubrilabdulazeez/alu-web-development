@@ -1,0 +1,1 @@
+This project focuses on implementing the CSS and styling for a webpage based on a designer file provided in Figma. The goal is to create a visually appealing and responsive webpage that closely resembles the design provided by the designer.
